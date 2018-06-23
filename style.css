@@ -42,3 +42,21 @@ section form > div > input {
 section form > div > input {
 	width: 95%;
 }
+
+div:nth-child(6) {
+	width: 100%;
+}
+
+div:nth-child(9) {
+	width: 100%;
+}
+
+div:nth-child() {
+	width: 100%;
+}
+
+button {
+	background-color: blue;
+	color: #fff;
+}
+
